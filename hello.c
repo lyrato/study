@@ -1,4 +1,3 @@
-wwwworking
 /*                                                     
  * $Id: hello.c,v 1.5 2004/10/26 03:32:21 corbet Exp $ 
  */                                                    
